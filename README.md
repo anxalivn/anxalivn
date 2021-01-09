@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects will be available at here soon: [https://github.com/anxalivn](https://github.com/anxalivn)
 
-- 📫 How to reach me **han.ganbaatar@gmail.com**
+- 📫 Reach me at: **han.ganbaatar@gmail.com**
 
-- 📄 Know about my experiences [Resume *](Resume *)
+- 📄 Know about my experiences: https://khanx.tech/resume/
 
 - ⚡ Fun fact **I love learning new stuff, specially languages.**
 
