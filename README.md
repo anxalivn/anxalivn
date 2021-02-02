@@ -3,7 +3,7 @@
 
 - 🔭 I currently work as **part-time Web Developer at the Branding Agency, me and my friends created. This is just something we do with our hobby.**
 
-- 🌱 I’m currently learning **to make a web based game on unity.**
+- 🌱 I’m currently learning **Typescript, and AngularJS**
 
 - 👯 I'm currently seeking for a **entry-level position in my field.**
 
