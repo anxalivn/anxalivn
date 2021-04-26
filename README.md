@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently preparing for **AWS Developer Associate Certificate**
 
-- 👯 I'm currently seeking for a **entry-level position in my field.**
+- 👯 I'm currently seeking for a **entry-level position in Software Engineering**
 
-- 👨‍💻 All of my projects will be available at here soon: [https://github.com/anxalivn](https://github.com/anxalivn)
+- 👨‍💻 All of my personal projects will be available at here soon: [https://github.com/anxalivn](https://github.com/anxalivn)
 
 - 📫 Reach me at: **han.ganbaatar@gmail.com**
 
-- 📄 Know about my experiences: https://khanx.tech/resume/
+- 📄 Know about my experiences: https://khanx.tech/?page_id=208/
 
-- ⚡ Fun fact **I love learning new stuff, specially languages.**
+- ⚡ Fun fact **I love learning new stuff, specially working on new platforms and frameworks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
