@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Han</h1>
 <h3 align="center">Recent graduated from Minnesota State University of Moorhead, with a Bachelor's Degree in Computer Science</h3>
 
-- 🔭 I worked as **Lead Software Developer at the Branding Agency, me and my friends created. This is just something we did with our hobby and freetime during pandemic.**
+- 🔭 I worked as **Lead Software Developer at the Branding Agency, me and my friends co-created. This was one of the most challenging yet most fun project, I've worked on.**
 
 - 🌱 I’m currently preparing for **AWS Developer Associate Certificate**
 
