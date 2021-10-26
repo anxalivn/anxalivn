@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Han</h1>
-<h3 align="center">Recent graduated from Minnesota State University of Moorhead, with a Bachelor's Degree in Computer Science</h3>
+<h3 align="center">I graduated from Minnesota State University of Moorhead, with a Bachelor's Degree in Computer Science in December, 2020 and been working as a free lance contract developer ever since.</h3>
 
 - 🔭 I worked as **Lead Web Developer at the Branding Agency, me and my friends co-created. This was one of the most challenging yet most fun project, I've worked on.**
 
