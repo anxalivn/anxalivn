@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: https://khanx.tech/?page_id=208/
 
-- ⚡ Fun fact **I love learning new stuff, specially working on new platforms and frameworks.**
+- ⚡ Fun fact **I love learning new stuff, specially working on new platforms and frameworks. My recent finding is Scala. If you haven't tried it out so, what are you waiting for
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
