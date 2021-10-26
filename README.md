@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Han</h1>
 <h3 align="center">Recent graduated from Minnesota State University of Moorhead, with a Bachelor's Degree in Computer Science</h3>
 
-- 🔭 I worked as **Lead Software Developer at the Branding Agency, me and my friends co-created. This was one of the most challenging yet most fun project, I've worked on.**
+- 🔭 I worked as **Lead Web Developer at the Branding Agency, me and my friends co-created. This was one of the most challenging yet most fun project, I've worked on.**
 
 - 🌱 I’m currently preparing for **AWS Developer Associate Certificate**
 
-- 👯 I'm currently seeking for a **entry-level position in Software Engineering**
+- 👯 I'm currently seeking for a **entry-level position in Front End Developer**
 
 - 👨‍💻 All of my personal projects will be available at here soon: [https://github.com/anxalivn](https://github.com/anxalivn)
 
